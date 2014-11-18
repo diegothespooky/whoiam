@@ -356,6 +356,15 @@
 				.icon.circle.fa-github:hover {
 					background: #FFDD75;
 				}
+				
+			.icon.circle.fa-linkedin {
+				background: #8ADCFF;
+				color: white;
+			}
+
+				.icon.circle.fa-linkedin:hover {
+					background: #A8E4FF;
+				}
 
 			.icon.circle.fa-dribbble {
 				background: #da83ae;
