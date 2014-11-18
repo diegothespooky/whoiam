@@ -339,14 +339,22 @@
 				.icon.circle.fa-google-plus:hover {
 					background: #df7b77;
 				}
+			.icon.circle.fa-stack-overflow {
+				background: #86BCFF;
+				color: white;
+			}
+
+				.icon.circle.fa-stack-overflow:hover {
+					background: #99C7FF;
+				}
 
 			.icon.circle.fa-github {
-				background: #dcad8b;
+				background: #FFD34F;
 				color: white;
 			}
 
 				.icon.circle.fa-github:hover {
-					background: #e1b89b;
+					background: #FFDD75;
 				}
 
 			.icon.circle.fa-dribbble {
@@ -604,6 +612,11 @@
 			background: white;
 			color: inherit;
 			padding: 4em;
+		}
+		.wrapper.style5 {
+			background-image: url("images/graduation1.jpg");
+			color: white;
+			
 		}
 
 /* Header */
