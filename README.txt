@@ -1,9 +1,9 @@
-Who I Am 
+﻿Who I Am 
 by Diego López
 diegolopezreyes@gmail.com
 
 whoiam is a basic responsive website page containing information about me and my projects. 
-This webpage is a combination of some jquery libraries with an HTML5 UP design to create a cool design for showing my work. 
+This webpage is a combination of some jquery libraries with an HTML5 UP design to create a cool portal for showing my work. 
 You are free to use these files under the condition of giving the proper credit.
 
 Style:

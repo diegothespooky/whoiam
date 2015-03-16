@@ -5,3 +5,11 @@ img.circle {
 	-webkit-border-radius: 100%;
 	-moz-border-radius: 100%;
 }
+
+.text-align-right{
+	text-align: right;
+}
+
+.text-align-left{
+	text-align: left;
+}
